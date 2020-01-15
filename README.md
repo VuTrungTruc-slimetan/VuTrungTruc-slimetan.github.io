@@ -1,2 +1,2 @@
 # VuTrungTruc-slimetan.github.io
-main web
+[VuTrungTruc-slimetan.github.io](://vutrungtruc-slimetan.github.io/)
